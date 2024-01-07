@@ -32,5 +32,8 @@
 
 - *Componentes Esenciales:*
   - Se ha desarrollado un DTO de salida y otro de entrada, ambos pasando de manera obligatoria por la librería de negocio.
+ 
+- *Errores:*
+  - Debido a las dificultades con el entorno local el consumo correcto con todos los datos incluido el fullName fue conseguido y registrado en el archivo "apx-cpnt-persistenciacpva-master@a3be244fb4f__PRUEBAFINALCONSUMOCORRECTO.zip", pero con la intención de presentar unas imágenes mas limpias con los registros de la base de datos y la correcta inserción del fullName al hacer un DROP TABLE T_WIKJ_HAB_PRUEBAFINAL las solicitudes por Postman empezaron a devolver un 500 y no pude hacer la foto y por la falta de tiempo no he podido sacar las imágenes, pero el código es 100% funcional.
 
 
