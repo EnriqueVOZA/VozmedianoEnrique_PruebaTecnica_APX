@@ -18,8 +18,10 @@
 
 - *Proceso y Salida:*
   - La salida refleja la información proporcionada como entrada, lograda mediante consultas `SELECT` utilizando el ID recibido o devolviendo directamente la información ingresada. La correcta ejecución de la inserción ha sido validada con éxito.
-  - ![Consumo Correcto](https://raw.githubusercontent.com/EnriqueVOZA/VozmedianoEnrique_PruebaTecnica_APX/main/images/ConsumoCorrectoAPX.png)
+ 
   - ![Consumo Correcto](https://github.com/EnriqueVOZA/VozmedianoEnrique_PruebaTecnica_APX/blob/main/images/ConsumoCorrectoAPX.png)
+  - ![Persistencia correcta](https://github.com/EnriqueVOZA/VozmedianoEnrique_PruebaTecnica_APX/blob/main/images/Persistencia%20de%20datos.png)
+    
     
 - *Herramientas y Procedimientos:*
   - Se ha aprovechado `apx-cli` para la creación eficiente del DTO, la librería y la transacción.
