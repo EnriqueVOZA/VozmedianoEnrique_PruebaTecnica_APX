@@ -18,7 +18,7 @@
 
 - *Proceso y Salida:*
   - La salida refleja la información proporcionada como entrada, lograda mediante consultas `SELECT` utilizando el ID recibido o devolviendo directamente la información ingresada. La correcta ejecución de la inserción ha sido validada con éxito.
-  - ![Consumo Correcto]([https://github.com/EnriqueVOZA/tu_repositorio/raw/main/VozmedianoEnrique_PruebaTecnica_APX/images/ConsumoCorrectoAPX.png](https://github.com/EnriqueVOZA/VozmedianoEnrique_PruebaTecnica_APX/blob/main/images/ConsumoCorrectoAPX.png)
+  - ![Consumo Correcto](https://raw.githubusercontent.com/EnriqueVOZA/VozmedianoEnrique_PruebaTecnica_APX/main/images/ConsumoCorrectoAPX.png)
 - *Herramientas y Procedimientos:*
   - Se ha aprovechado `apx-cli` para la creación eficiente del DTO, la librería y la transacción.
   - La utilidad JDBC generada por `apx-cli` ha sido implementada con éxito para gestionar la conexión con la base de datos Oracle.
